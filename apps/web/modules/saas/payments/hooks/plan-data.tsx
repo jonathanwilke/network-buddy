@@ -31,22 +31,6 @@ export function usePlanData() {
 				t("pricing.products.pro.features.fullSupport"),
 			],
 		},
-		enterprise: {
-			title: t("pricing.products.enterprise.title"),
-			description: t("pricing.products.enterprise.description"),
-			features: [
-				t("pricing.products.enterprise.features.unlimitedProjects"),
-				t("pricing.products.enterprise.features.enterpriseSupport"),
-			],
-		},
-		lifetime: {
-			title: t("pricing.products.lifetime.title"),
-			description: t("pricing.products.lifetime.description"),
-			features: [
-				t("pricing.products.lifetime.features.noRecurringCosts"),
-				t("pricing.products.lifetime.features.extendSupport"),
-			],
-		},
 	};
 
 	return { planData };
