@@ -1,5 +1,5 @@
 {
-	"name": "supastarter-nextjs",
+	"name": "network-buddy",
 	"private": true,
 	"scripts": {
 		"build": "dotenv -c -- turbo build",
