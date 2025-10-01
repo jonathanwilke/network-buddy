@@ -1,6 +1,6 @@
 {
 	"dependencies": {
-		"@hono/zod-validator": "^0.7.0",
+		"@hono/zod-validator": "^0.7.3",
 		"@repo/ai": "workspace:*",
 		"@repo/auth": "workspace:*",
 		"@repo/config": "workspace:*",
@@ -11,21 +11,21 @@
 		"@repo/payments": "workspace:*",
 		"@repo/storage": "workspace:*",
 		"@repo/utils": "workspace:*",
-		"@scalar/hono-api-reference": "^0.9.3",
-		"@sindresorhus/slugify": "^2.2.1",
-		"hono": "^4.7.11",
-		"hono-openapi": "^0.4.8",
-		"nanoid": "^5.1.5",
-		"openai": "^5.1.1",
+		"@scalar/hono-api-reference": "^0.9.19",
+		"@sindresorhus/slugify": "^3.0.0",
+		"hono": "^4.9.9",
+		"hono-openapi": "^1.1.0",
+		"nanoid": "^5.1.6",
+		"openai": "^6.0.0",
 		"openapi-merge": "^1.3.3",
-		"use-intl": "^4.1.0",
-		"zod": "^3.25.67",
-		"zod-openapi": "^4.2.4"
+		"use-intl": "^4.3.9",
+		"zod": "^4.1.11",
+		"zod-openapi": "^5.4.2"
 	},
 	"devDependencies": {
 		"@biomejs/biome": "2.0.6",
 		"@repo/tsconfig": "workspace:*",
-		"@types/react": "19.1.8",
+		"@types/react": "19.1.16",
 		"encoding": "^0.1.13",
 		"prisma": "^6.11.0",
 		"typescript": "5.8.3"
